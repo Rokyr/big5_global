@@ -1,3 +1,5 @@
 # big5_global
 
-will re-upload by 23/11/2025
+I noticed some issues with the code.
+
+Will re-upload by 23/11/2025
